@@ -1,0 +1,95 @@
+@charset "utf-8";
+body {
+    font-family: sans-serif, serif;
+    font-size: 100%;
+    text-align: initial;
+    background-color: white;
+    border-style: groove;
+    margin: 0%;
+
+
+}
+header {
+    color: rgb(21, 144, 216);
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    font-size: 100%;
+    position: relative;
+    bottom: 20px;
+    left:34px;
+    
+    
+    
+}
+a:link, a:visited { color:rgb(21, 144, 216); };
+a:focus, a:hover, a:active { color: red };
+
+h1 {
+    color:rgb(21, 144, 216);
+}
+hr {
+    position: relative;
+    bottom: 35px;
+}
+main{
+    position: relative;
+    left: 52px;
+}
+main.two {
+    position: relative;
+    left: 764px;
+    bottom: 284px;
+}
+
+nav ul li{
+    display: inline;
+    list-style: none;
+    position: relative;
+    left: 683px;
+     bottom: 45px;
+}
+a {
+    position: relative;
+    left: 172px;
+}
+button{
+    width:160px;
+    height: 35px;
+    color:  white;
+    background-color: rgb(21, 144, 216);
+    border-radius: 0.3em;
+    border-style: none;
+}
+hr.first {
+    position: relative;
+    right: 534px;
+    top: 4px;
+}
+footer {
+    color: white;
+    background-color: rgb(21, 144, 216);
+    border-top-right-radius: 2em;
+    border-top-left-radius: 2em;
+    text-align: center;
+    margin: 2em;
+    margin-bottom: 0em;
+    padding-top: 1em;
+    position: relative;
+    top:15px;
+}
+footer dd{
+    position:relative;
+    right:450px;
+
+}
+dd.sec {
+    position:relative;
+    left:450px;
+    bottom:75px;
+
+}
+footer img{
+    padding-bottom: 2em;
+    position: relative;
+    bottom: 20px;
+}
+

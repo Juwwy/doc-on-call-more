@@ -1,0 +1,103 @@
+@charset "uft-8";
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
+    font-size: 100%;
+    text-align: center;
+    margin: .2em;
+}
+header  {
+    font-family: 'Times';
+    font-size: 100%;
+    color:white;
+    text-align: initial;
+    background-color: rgb(21, 144, 216);
+    background-image: url(health-care-1.png);
+    background-repeat: no-repeat
+
+}
+ p.base{
+    text-align: left;
+    margin:10em; 
+    position: relative;
+    left:4em;
+}
+h1{
+    padding-left: 5em;
+    position: relative;
+    top:2.5em;
+}
+p.img {
+    margin:15px;
+    float:top;
+    
+}
+li.left{
+    position: relative;
+    left:8em;
+}
+p.move{
+    position: relative;
+    left: 50em;
+    bottom:15em;
+}
+nav ul li  {
+    display: inline;
+    list-style: none;
+    position: relative;
+    left: 40em;
+}
+button{
+    width:150px;
+    height: 35px;
+    color:  rgb(21, 144, 216);
+    background-color: white;
+    border-radius: 0.3em;
+    border-style: none;
+}
+button.two {
+    color:white;
+    background-color: rgb(21, 144, 216);
+}
+main {
+    text-align: initial;
+    font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
+    font-size: 100%;
+    padding: 5em;
+}
+main p2{
+    text-align: initial;
+    position: relative;
+    left:480px;
+    padding: .5em;
+    
+}
+main.two {
+    color: white;
+    background-color: rgb(21, 144, 216);
+    
+}
+footer {
+    color: white;
+    background-color: rgb(21, 144, 216);
+    border-top-right-radius: 2em;
+    border-top-left-radius: 2em;
+    margin: 2em;
+    margin-bottom: 0em;
+    padding-top: 1em;
+}
+footer dd{
+    position:relative;
+    right:450px;
+
+}
+dd.sec {
+    position:relative;
+    left:450px;
+    bottom:75px;
+
+}
+footer img{
+    padding-bottom: 2em;
+    position: relative;
+    bottom: 20px;
+}

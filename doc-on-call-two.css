@@ -1,0 +1,92 @@
+@charset "utf-8";
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
+    font-size: 100%;
+    text-align: initial;
+    margin: .01em;
+    background-color: white;
+    border-style: groove;
+}
+header {
+    color: rgb(21, 144, 216);
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    font-size: 100%;
+    position: relative;
+    bottom: 20px;
+    
+    
+}
+/* hr.two {
+    position: relative;
+    bottom: 55px;
+} */
+
+h1 {
+    color: rgb(21, 144, 216);
+    padding-left: 3em;
+
+}
+#bor {
+    position: absolute;
+    top: 295px;
+    left: 142px;
+    width: 322px;
+    height: 369px;
+33333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333
+}
+
+
+table th {
+    border-style: none;
+    border-bottom-left-radius: 4em;
+    border-bottom-right-radius: 4em;
+}    
+
+fieldset {
+    width: 250px;
+    height: 250px;
+    display: inline-block;
+    text-align: initial;
+    background-color: blue; 
+    
+}
+p {
+    padding-left: 3em;
+}
+p.box {
+    border-style:groove;
+}
+nav ul li{
+    display: inline;
+    list-style: none;
+    position: relative;
+    left: 450px;
+     bottom: 45px;
+}
+
+footer {
+    color: white;
+    background-color: rgb(21, 144, 216);
+    border-top-right-radius: 2em;
+    border-top-left-radius: 2em;
+    text-align: center;
+    margin: 2em;
+    margin-bottom: 0em;
+    padding-top: 1em;
+}
+footer dd{
+    position:relative;
+    right:450px;
+
+}
+dd.sec {
+    position:relative;
+    left:450px;
+    bottom:75px;
+
+}
+footer img{
+    padding-bottom: 2em;
+    position: relative;
+    bottom: 20px;
+}
